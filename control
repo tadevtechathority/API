@@ -1,0 +1,10 @@
+Package: com.tadevtech.dylibkey
+Name: ThienNhanDylibKey
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Dylib APIServer
+Maintainer: APIServer
+Author: thiennhan
+Section: Tweaks
+Homepage: https://v3.baontq.xyz
